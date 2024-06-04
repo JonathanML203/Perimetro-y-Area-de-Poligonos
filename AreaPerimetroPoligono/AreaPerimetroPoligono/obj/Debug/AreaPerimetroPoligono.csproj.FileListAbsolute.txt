@@ -1,0 +1,7 @@
+D:\source\repos\AreaPerimetroPoligono\AreaPerimetroPoligono\bin\Debug\AreaPerimetroPoligono.exe.config
+D:\source\repos\AreaPerimetroPoligono\AreaPerimetroPoligono\bin\Debug\AreaPerimetroPoligono.exe
+D:\source\repos\AreaPerimetroPoligono\AreaPerimetroPoligono\bin\Debug\AreaPerimetroPoligono.pdb
+D:\source\repos\AreaPerimetroPoligono\AreaPerimetroPoligono\obj\Debug\AreaPerimetroPoligono.csproj.AssemblyReference.cache
+D:\source\repos\AreaPerimetroPoligono\AreaPerimetroPoligono\obj\Debug\AreaPerimetroPoligono.csproj.CoreCompileInputs.cache
+D:\source\repos\AreaPerimetroPoligono\AreaPerimetroPoligono\obj\Debug\AreaPerimetroPoligono.exe
+D:\source\repos\AreaPerimetroPoligono\AreaPerimetroPoligono\obj\Debug\AreaPerimetroPoligono.pdb
